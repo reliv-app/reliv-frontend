@@ -1,6 +1,11 @@
 template based off of https://github.com/expo/examples/tree/master/with-typescript
 
 # Setup
+Requirements:
+- [node.js](https://nodejs.org/en/)
+- [git](https://git-scm.com/)
+- linus or mac users: [watchman](https://facebook.github.io/watchman/docs/install#buildinstall)
+
 ```
 clone the repo
 cd into root
