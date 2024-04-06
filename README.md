@@ -6,7 +6,7 @@ clone the repo
 cd into root
 npm i
 ```
-Download the expo app on your phone.
+Download the [expo app](https://expo.dev/go) on your phone.
 
 ## Start the expo simulator
 ```
