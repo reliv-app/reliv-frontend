@@ -1,0 +1,21 @@
+{
+    "expo": {
+      "scheme":"reliv-frontend",
+      "plugins": [
+        [
+          "expo-image-picker",
+          {
+            "photosPermission": "The app accesses your photos to let you share them with your friends."
+          }
+        ],
+        [
+          "expo-camera",
+          {
+            "cameraPermission": "Allow Reliv to access your camera",
+            "microphonePermission": "Allow Reliv to access your microphone",
+            "recordAudioAndroid": true
+          }
+        ]
+      ]
+    }
+  }
